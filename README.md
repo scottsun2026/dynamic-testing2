@@ -114,7 +114,7 @@ CSV files should contain at least these columns:
 
 The analysis generates comparison plots like this current analysis:
 
-![Current vs Time Plot](current_vs_time_plot.png)
+![Current vs Time Plot](current_vs_time.png)
 
 *Figure: Current measurements over time for different weight conditions (900, 1200, 1500, 2000 lb)*
 
