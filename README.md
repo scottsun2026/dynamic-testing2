@@ -120,6 +120,7 @@ The analysis generates comparison plots like this current analysis:
 
 - [Current vs Time](https://scottsun2026.github.io/dynamic-testing2/current_vs_time_chart.html)
 - [Current vs Time](https://scottsun2026.github.io/Dynamic_testing2/current_vs_time_chart.html)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yourusername/Dynamic_testing2/main?filepath=analysis.ipynb)
 
 
 *Figure: Current measurements over time for different weight conditions (900, 1200, 1500, 2000 lb)*
