@@ -100,9 +100,9 @@ The notebook generates interactive Plotly charts that allow you to:
 
 View the interactive Plotly charts hosted on GitHub Pages:
 
-- [Current vs Time Analysis](https://scottsun2026.github.io/Dynamic_testing2/docs/current_vs_time_chart.html)
-- [Voltage vs Time Analysis](https://scottsun2026.github.io/Dynamic_testing2/docs/voltage_vs_time_chart.html)
-- [Speed (MPH) vs Time Analysis](https://scottsun2026.github.io/Dynamic_testing2/docs/mph_vs_time_chart.html)
+- [Current vs Time Analysis](https://scottsun2026.github.io/dynamic_testing2/docs/current_vs_time_chart.html)
+- [Voltage vs Time Analysis](https://scottsun2026.github.io/dynamic_testing2/docs/voltage_vs_time_chart.html)
+- [Speed (MPH) vs Time Analysis](https://scottsun2026.github.io/dynamic_testing2/docs/mph_vs_time_chart.html)
 
 
 ## Data Format
@@ -121,18 +121,15 @@ CSV files should contain at least these columns:
 
 ### Example Outputs
 
-The analysis generates comparison plots like this current analysis:
+The analysis generates comparison plots comparing voltage across all test conditions (900, 1200, 1500, 2000 lb).
 
-![Current vs Time Plot](current_vs_time.png)
+## View Full Analysis
 
-## Interactive Charts
+Run the notebook locally or view it online:
 
-- [Current vs Time](https://scottsun2026.github.io/dynamic-testing2/current_vs_time_chart.html)
-- [Current vs Time](https://scottsun2026.github.io/Dynamic_testing2/current_vs_time_chart.html)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scottsun2026/Dynamic_testing2/main?filepath=analysis.ipynb)
 
-
-*Figure: Current measurements over time for different weight conditions (900, 1200, 1500, 2000 lb)*
+*Click the badge above to run the analysis interactively online with Binder (no installation required)*
 
 ## Key Functions
 
