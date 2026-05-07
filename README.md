@@ -43,7 +43,7 @@ Dynamic_testing2/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Dynamic_testing2.git
+git clone https://github.com/scottsun2026/Dynamic_testing2.git
 cd Dynamic_testing2
 ```
 
@@ -96,6 +96,15 @@ The notebook generates interactive Plotly charts that allow you to:
 - **Responsive Design**: Charts adapt to different screen sizes
 - **Custom Tick Intervals**: X-axis shows 50-second intervals for clarity
 
+### Interactive Charts (Live)
+
+View the interactive Plotly charts hosted on GitHub Pages:
+
+- [Current vs Time Analysis](https://scottsun2026.github.io/Dynamic_testing2/docs/current_vs_time_chart.html)
+- [Voltage vs Time Analysis](https://scottsun2026.github.io/Dynamic_testing2/docs/voltage_vs_time_chart.html)
+- [Speed (MPH) vs Time Analysis](https://scottsun2026.github.io/Dynamic_testing2/docs/mph_vs_time_chart.html)
+
+
 ## Data Format
 
 CSV files should contain at least these columns:
@@ -120,7 +129,7 @@ The analysis generates comparison plots like this current analysis:
 
 - [Current vs Time](https://scottsun2026.github.io/dynamic-testing2/current_vs_time_chart.html)
 - [Current vs Time](https://scottsun2026.github.io/Dynamic_testing2/current_vs_time_chart.html)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yourusername/Dynamic_testing2/main?filepath=analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scottsun2026/Dynamic_testing2/main?filepath=analysis.ipynb)
 
 
 *Figure: Current measurements over time for different weight conditions (900, 1200, 1500, 2000 lb)*
