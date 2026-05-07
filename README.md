@@ -100,9 +100,7 @@ The notebook generates interactive Plotly charts that allow you to:
 
 View the interactive Plotly charts hosted on GitHub Pages:
 
-- [Current vs Time Analysis](https://scottsun2026.github.io/dynamic_testing2/docs/current_vs_time_chart.html)
-- [Voltage vs Time Analysis](https://scottsun2026.github.io/dynamic_testing2/docs/voltage_vs_time_chart.html)
-- [Speed (MPH) vs Time Analysis](https://scottsun2026.github.io/dynamic_testing2/docs/mph_vs_time_chart.html)
+- [Test Analysis vs Time Analysis](https://scottsun2026.github.io/dynamic-testing2/)
 
 
 ## Data Format
