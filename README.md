@@ -116,6 +116,10 @@ The analysis generates comparison plots like this current analysis:
 
 ![Current vs Time Plot](current_vs_time.png)
 
+## Interactive Charts
+
+- [Current vs Time](https://yourusername.github.io/Dynamic_testing2/current_vs_time_chart.html)
+
 *Figure: Current measurements over time for different weight conditions (900, 1200, 1500, 2000 lb)*
 
 ## Key Functions
